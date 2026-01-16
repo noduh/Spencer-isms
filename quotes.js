@@ -1,0 +1,20 @@
+const quotes = [
+    "Who is the imperial ‘we’?",
+    "😎👍",
+    "Flee, be free",
+    "Let’s go play",
+    "I used to be skinny, but now I work here I sit and eat all the time and get fat.",
+    "Separation between church and church and church.",
+    "Sucks to be you.",
+    "Only touch something once.",
+    "No good deed goes unpunished.",
+    "That’s why you get paid the big bucks.",
+    "I need to get my ducks in a row.",
+    "I can be rented for the weekend, but I can’t be bought.",
+    "Sometimes I just think funny thoughts.",
+    "I am off like a herd of turtles.",
+    "Do as I say, not as I do",
+    "Remember, this elevator was built by the lowest bidder",
+    "Hurry up and wait",
+    "You can’t mix for every seat in the house"
+];
