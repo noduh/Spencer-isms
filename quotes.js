@@ -16,5 +16,9 @@ const quotes = [
     "Do as I say, not as I do",
     "Remember, this elevator was built by the lowest bidder",
     "Hurry up and wait",
-    "You can’t mix for every seat in the house"
+    "You can’t mix for every seat in the house",
+    "Mis-quoted quotes, by E. Spencer Allen",
+    "Nothing but fun at BYU-Idaho",
+    "Is this a student, or is this a real person?",
+    "Food. I’ve gotta have food before I kill someone."
 ];
