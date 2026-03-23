@@ -23,7 +23,7 @@ function displayRandomQuote() {
     quoteDisplay.style.opacity = 0;
 
     setTimeout(() => {
-        quoteDisplay.innerText = quote;
+        quoteDisplay.innerText = `"${quote}"`;
         // Fade in
         quoteDisplay.style.opacity = 1;
     }, 200); // Wait for fade out
