@@ -20,5 +20,6 @@ const quotes = [
     "Mis-quoted quotes, by E. Spencer Allen.",
     "Nothing but fun at BYU-Idaho!",
     "Is this a student, or is this a real person?",
-    "Food. I’ve gotta have food before I kill someone."
+    "Food. I’ve gotta have food before I kill someone.",
+    "An untrained chimpanzee could do this job."
 ];
