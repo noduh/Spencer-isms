@@ -21,5 +21,6 @@ const quotes = [
     "Nothing but fun at BYU-Idaho!",
     "Is this a student, or is this a real person?",
     "Food. I’ve gotta have food before I kill someone.",
-    "An untrained chimpanzee could do this job."
+    "An untrained chimpanzee could do this job.",
+    "Well, gosh. That guy looks like an old man."
 ];
